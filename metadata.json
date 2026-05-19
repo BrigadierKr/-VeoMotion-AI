@@ -1,0 +1,6 @@
+{
+  "name": "VeoMotion AI",
+  "description": "Transform static images into cinematic videos with motion, camera transitions, and AI-generated sound using Gemini Veo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
